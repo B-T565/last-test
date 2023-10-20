@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-header',
   template: `
     <h2>header</h2>
-    <a routerLink="">home</a>
+    <a routerLink="/forgot">home</a>
   `,
   styles: [``]
 })
