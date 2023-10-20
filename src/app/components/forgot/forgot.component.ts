@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-forgot',
   template: `
     	<h1>forgot</h1>
-      <a routerLink="/home">home</a>
+      <a routerLink="">home</a>
   `,
   styles: [``]
 })

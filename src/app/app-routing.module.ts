@@ -9,7 +9,7 @@ import { ForgotComponent } from './components/forgot/forgot.component';
 
 const routes: Routes = [
   {path:'', component:HomeComponent},
-  {path: 'home', component: HomeComponent},
+  // {path: 'home', component: HomeComponent},
   {path:'login',component:LoginComponent},
   {path: 'header',component: HeaderComponent},
   {path: 'forgot',component: ForgotComponent}
