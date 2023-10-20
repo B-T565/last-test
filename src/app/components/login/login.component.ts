@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-login',
   template: `
     <h1>Login Page</h1>
-    <a routerLink="">header</a>
+    <a routerLink="/header">header</a>
   `,
   styles: [``]
 })
